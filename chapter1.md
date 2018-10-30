@@ -3,7 +3,7 @@ title: Test
 description: Test
 ---
 
-## An exercise title written in sentence case
+## Getting ready
 
 ```yaml
 type: NormalExercise
@@ -13,13 +13,15 @@ xp: 100
 skills: 2
 ```
 
-This is the assignment text. It should help provide students with the background information needed.
+**This** is the assignment text. It should help provide students with the background information needed.
 The instructions that follow should be in bullet point form with clear guidance for what is expected.
 
 `@instructions`
 - Instruction 1
-- Instruction 2
+- Instruction 2 asdf
 - Instruction 3
+
+![http://assets.datacamp.com/production/repositories/3812/datasets/7993f1ed9cea494e54891b3c7c729b0f7a8efb48/cc2c6609-3727-46a4-9697-381f308dd506.png](h)
 
 `@hint`
 - Here is the hint for this setup problem. 
@@ -57,4 +59,104 @@ The instructions that follow should be in bullet point form with clear guidance 
 ```{python}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 620b79ca95
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: bd9ed16080
+xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 1489a2f7f8
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: BulletExercise
+key: 5d5f9950dd
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
 ```
